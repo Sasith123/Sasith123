@@ -14,9 +14,8 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Project 1](#) | Short project description | React, Node.js |
-| [Project 2](#) | Short project description | Vue, Firebase |
-| [Project 3](#) | Short project description | Django, PostgreSQL |
+| [Road Scout](#) | Crowd sourced road condition reporting system | Html, Css, JavaScript, php |
+| [Expense Tracker app ](#) | An app which can be used to track income and expenses enabling control over money | Mongo db, express js, react js, node js|
 
 *Check out my pinned repositories below for more!*
 
