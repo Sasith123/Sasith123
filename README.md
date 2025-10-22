@@ -31,9 +31,9 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 
 ## 💬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=firefox)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sasith-vihanga/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=firefox)](https://sasith-karunathilaka-b3yo.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasith857@gmail.com)
 
 ---
 
