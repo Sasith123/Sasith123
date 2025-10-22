@@ -14,8 +14,8 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Road Scout](#) | Crowd sourced road condition reporting system | Html, Css, JavaScript, php |
-| [Hospital_Queue_tracker ](#) | A web app that monitors and manages hospital's queues and various reports | React.js, Tailwind CSS, Springboot, MySQL, Docker|
+| [Road Scout](https://github.com/Sasith123/Road-Scout) | Crowd sourced road condition reporting system | Html, Css, JavaScript, php |
+| [Hospital_Queue_tracker ](https://github.com/Sasith123/Doctor-Queue-Lab-Report-Tracker-main) | A web app that monitors and manages hospital's queues and various reports | React.js, Tailwind CSS, Springboot, MySQL, Docker|
 
 *Check out my pinned repositories below for more!*
 
