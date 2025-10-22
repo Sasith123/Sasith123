@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
 | [Road Scout](#) | Crowd sourced road condition reporting system | Html, Css, JavaScript, php |
-| [Expense Tracker app ](#) | An app which can be used to track income and expenses enabling control over money | Mongo db, express js, react js, node js|
+| [Hospital_Queue_tracker ](#) | A web app that monitors and manages hospital's queues and various reports | React.js, Tailwind CSS, Springboot, MySQL, Docker|
 
 *Check out my pinned repositories below for more!*
 
