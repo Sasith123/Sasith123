@@ -4,7 +4,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React, Vue, Angular, JavaScript, TypeScript, HTML5, CSS3, SASS
+- **Frontend:** React, Vue, Angular, JavaScript, TypeScript, HTML5, CSS3
 - **Backend:** Node.js, Express.js, Python, Django, PHP, Laravel
 - **Database:** MongoDB, MySQL, PostgreSQL, Firebase
 - **DevOps:** Docker, GitHub Actions, AWS, Azure
